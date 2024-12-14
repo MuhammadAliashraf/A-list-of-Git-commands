@@ -3,7 +3,6 @@ Git Commands
 
 _A list of Git commands_
 --
-feel free to star [this](https://gist.github.com/vimalverma558/6fe59f3b7f886d2210bca28634b3a7fe)
 
 ___
 ___
@@ -97,4 +96,4 @@ ___
 | Set a repository's origin branch to SSH | `git remote set-url origin ssh://git@github.com/<username>/<repository-name>.git` |
 
 
-[follow](https://github.com/vimalverma558)
+[follow](https://github.com/MuhammadAliashraf)
